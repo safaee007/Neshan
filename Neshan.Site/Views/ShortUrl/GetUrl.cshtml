@@ -1,0 +1,29 @@
+﻿@model Neshan.Domain.DTOs.ShortURL.ShortUrlDTO
+@using Library.Core.Enums;
+@{
+    ViewData["Title"] = "لینک اصلی شما";
+}
+
+<div class="container p-3">
+    <div class="row">
+        @if (ViewBag.SharedResult != null)
+        {
+            switch (ViewBag.SharedResult)
+            {
+                case SharedEnums.SharedResult.Successful:
+                    <p><strong>لینک اصلی:</strong></p>
+                    <p class="alert alert-success">@Model.OriginalURL</p>
+                    break;
+                case SharedEnums.SharedResult.Expired:
+                    <p><strong>لینک اصلی:</strong></p>
+                    <p class="alert alert-danger">لینک شما منقضی شده</p>
+                    break;
+
+                default:
+                    <p class="alert alert-warning">خطایی پیش آمده است</p>
+                    break;
+
+            }
+        }
+    </div>
+</div>

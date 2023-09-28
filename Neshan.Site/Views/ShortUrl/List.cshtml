@@ -1,0 +1,42 @@
+﻿@using Library.Core.Models;
+@using Library.Core.Managers;
+@using Neshan.Domain.DTOs.ShortURL;
+@model IList<ShortUrlDTO>
+@{
+    ViewData["Title"] = "لینک های تولید شده";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <strong>لیست لینک های تولید شده</strong>
+        </div>
+        <div class="col-sm-8"><a href="addUrl" class="btn btn-success">افزودن</a> </div>
+    </div>
+    <div class="row  mt-3">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>لینک اصلی</th>
+                    <th>لینک کوتاه شده</th>
+                    <th>کلید</th>
+                    <th>تاریخ ایجاد</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.OriginalURL</td>
+                        <td>
+                            <a href="@item.ShortURL@item.UrlKey" target="_blank">@item.ShortURL@item.UrlKey</a>
+                        </td>
+                        <td>@item.UrlKey</td>
+                        <td>@item.CreateDate2</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

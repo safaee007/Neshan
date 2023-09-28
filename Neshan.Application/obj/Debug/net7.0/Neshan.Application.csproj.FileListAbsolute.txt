@@ -1,0 +1,17 @@
+D:\safaee\project\Neshan.Application\bin\Debug\net7.0\Neshan.Application.deps.json
+D:\safaee\project\Neshan.Application\bin\Debug\net7.0\Neshan.Application.dll
+D:\safaee\project\Neshan.Application\bin\Debug\net7.0\Neshan.Application.pdb
+D:\safaee\project\Neshan.Application\bin\Debug\net7.0\Library.Core.dll
+D:\safaee\project\Neshan.Application\bin\Debug\net7.0\Neshan.Domain.dll
+D:\safaee\project\Neshan.Application\bin\Debug\net7.0\Library.Core.pdb
+D:\safaee\project\Neshan.Application\bin\Debug\net7.0\Neshan.Domain.pdb
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\Neshan.Application.csproj.AssemblyReference.cache
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\Neshan.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\Neshan.Application.AssemblyInfoInputs.cache
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\Neshan.Application.AssemblyInfo.cs
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\Neshan.Application.csproj.CoreCompileInputs.cache
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\Neshan.Application.csproj.CopyComplete
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\Neshan.Application.dll
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\refint\Neshan.Application.dll
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\Neshan.Application.pdb
+D:\safaee\project\Neshan.Application\obj\Debug\net7.0\ref\Neshan.Application.dll

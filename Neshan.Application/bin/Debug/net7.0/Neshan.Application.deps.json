@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Neshan.Application/1.0.0": {
+        "dependencies": {
+          "Library.Core": "1.0.0",
+          "Neshan.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Neshan.Application.dll": {}
+        }
+      },
+      "Library.Core/1.0.0": {
+        "runtime": {
+          "Library.Core.dll": {}
+        }
+      },
+      "Neshan.Domain/1.0.0": {
+        "dependencies": {
+          "Library.Core": "1.0.0"
+        },
+        "runtime": {
+          "Neshan.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neshan.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Neshan.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

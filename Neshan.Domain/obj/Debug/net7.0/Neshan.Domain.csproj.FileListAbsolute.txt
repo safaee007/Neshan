@@ -1,0 +1,15 @@
+D:\safaee\project\Neshan.Domain\bin\Debug\net7.0\Neshan.Domain.deps.json
+D:\safaee\project\Neshan.Domain\bin\Debug\net7.0\Neshan.Domain.dll
+D:\safaee\project\Neshan.Domain\bin\Debug\net7.0\Neshan.Domain.pdb
+D:\safaee\project\Neshan.Domain\bin\Debug\net7.0\Library.Core.dll
+D:\safaee\project\Neshan.Domain\bin\Debug\net7.0\Library.Core.pdb
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\Neshan.Domain.csproj.AssemblyReference.cache
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\Neshan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\Neshan.Domain.AssemblyInfoInputs.cache
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\Neshan.Domain.AssemblyInfo.cs
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\Neshan.Domain.csproj.CoreCompileInputs.cache
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\Neshan.Domain.csproj.CopyComplete
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\Neshan.Domain.dll
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\refint\Neshan.Domain.dll
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\Neshan.Domain.pdb
+D:\safaee\project\Neshan.Domain\obj\Debug\net7.0\ref\Neshan.Domain.dll
